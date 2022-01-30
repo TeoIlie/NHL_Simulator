@@ -1,0 +1,116 @@
+NHL Simulator (Version 0.1). Author: Teo Ilie
+1 – Simulate NHL Season (Eastern Conference)
+2 – View Team Skill Level Profile
+3 – Display End of Regular Season Table
+Select Option [1, 2 or 3] (9 to Quit):2
+
+Must run NHL Eastern Conference Simulation before accessing this option!
+
+NHL Simulator (Version 0.1). Author: Teo Ilie
+1 – Simulate NHL Season (Eastern Conference)
+2 – View Team Skill Level Profile
+3 – Display End of Regular Season Table
+Select Option [1, 2 or 3] (9 to Quit):3
+
+Must run NHL Eastern Conference Simulation before accessing this option!
+
+NHL Simulator (Version 0.1). Author: Teo Ilie
+1 – Simulate NHL Season (Eastern Conference)
+2 – View Team Skill Level Profile
+3 – Display End of Regular Season Table
+Select Option [1, 2 or 3] (9 to Quit):1
+
+NHL Regular Season – Eastern Conference – 2018/2019
+First Team: Tampa Bay          Points: 46           
+Last Team: Boston              Points: 0            
+Simulation completed!
+
+NHL Simulator (Version 0.1). Author: Teo Ilie
+1 – Simulate NHL Season (Eastern Conference)
+2 – View Team Skill Level Profile
+3 – Display End of Regular Season Table
+Select Option [1, 2 or 3] (9 to Quit):2
+
+Enter Team Name: Detroit
+
+No      Name        Position        Skill level
+***     *****       **********      ************
+61      F61         Forward              5          
+16      F16         Forward              4          
+4       F4          Forward              4          
+28      F28         Forward              7          
+14      F14         Forward              5          
+18      F18         Forward              4          
+45      F45         Forward              7          
+99      F99         Forward              6          
+97      F97         Forward              7          
+83      F83         Forward              6          
+36      F36         Forward              6          
+98      F98         Forward              7          
+40      F40         Forward              6          
+
+50      D50         Defense              7          
+69      D69         Defense              7          
+82      D82         Defense              6          
+93      D93         Defense              8          
+55      D55         Defense              7          
+90      D90         Defense              7          
+62      D62         Defense              8          
+84      D84         Defense              6          
+
+80      G80         Goalie               4          
+20      G20         Goalie               6          
+81      G81         Goalie               6          
+38      G38         Goalie               4          
+
+NHL Simulator (Version 0.1). Author: Teo Ilie
+1 – Simulate NHL Season (Eastern Conference)
+2 – View Team Skill Level Profile
+3 – Display End of Regular Season Table
+Select Option [1, 2 or 3] (9 to Quit):2
+
+Enter Team Name: Orlando
+
+Orlando is invalid! Please re-enter or press [Enter]
+texas
+
+texas is invalid! Please re-enter or press [Enter]
+
+NHL Simulator (Version 0.1). Author: Teo Ilie
+1 – Simulate NHL Season (Eastern Conference)
+2 – View Team Skill Level Profile
+3 – Display End of Regular Season Table
+Select Option [1, 2 or 3] (9 to Quit):3
+
+TOTAL SCORES AND STATISTICS REPORT
+***********************************
+Team Name            GP    W      L     OTL   Pts   GF    GA    Diff  
+******************* ***** ***** ***** ****** ***** ***** ***** ******
+Boston               30    0      30    0     0     210   260   -50   
+Buffalo              30    2      28    0     4     156   258   -102  
+Carolina             30    4      20    6     8     136   198   -62   
+Columbus             30    6      2     14    20    102   100   2     
+Detroit              30    6      2     16    18    100   102   -2    
+Florida              30    6      2     12    22    104   98    6     
+Montreal             30    6      0     24    12    88    98    -10   
+New Jersey           30    6      2     12    22    102   96    6     
+NY Islanders         30    6      2     6     28    122   92    30    
+NY Rangers           30    6      2     8     26    106   92    14    
+Ottawa               30    6      0     18    18    98    96    2     
+Philadelphia         30    6      0     22    14    94    100   -6    
+Pittsburgh           30    4      2     4     28    110   84    26    
+Tampa Bay            30    20     4     0     46    126   68    58    
+Toronto              30    6      0     2     34    118   76    42    
+Washington           30    6      0     0     36    120   74    46    
+
+Press any key to continue
+
+NHL Simulator (Version 0.1). Author: Teo Ilie
+1 – Simulate NHL Season (Eastern Conference)
+2 – View Team Skill Level Profile
+3 – Display End of Regular Season Table
+Select Option [1, 2 or 3] (9 to Quit):9
+
+Thank you for using the simulator.
+
+Process finished with exit code 0

@@ -1,0 +1,12 @@
+
+Analysis
+
+
+1. Q: According to your run of the simulation, did the Toronto Maple Leafs 	make it to the playoffs?
+   A: Yes, according to my simulation they made the playoffs, as they came in 	3rd position, and all teams in 8th or above qualify.
+
+2. Q: If they didn’t, what do you think would be the minimum skill level 	required by the defensemen and goalies in order to make it to the 	playoffs?
+   A: They did make the playoffs.
+
+3. Q: If they did, what do you think would be the minimum skill level 		required by the defensemen and goalies in order to end the regular 	season in first place?
+   A: Tampa Bay came in first place. Their ranges are: 6 – 10, 6 – 10, 7 – 9, 	for forwards, defence, and goalies respectively. Leafs range from 4 - 	10, 4 - 9, 5 - 10, respectively. I think the forwards and defence 	would need to have a higher lower bound, ideally 6, and the goalies 	would need a higher lower bound as well, as Tampa Bay goes down to 7 	and Toronto down to 5. They may want to get new goalies to replace 	Sparks and Kaskisuo who drag down the goalie range. Either way, there 	is no guaranteeing a win, but this will increase their chances. 
